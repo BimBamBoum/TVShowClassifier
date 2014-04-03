@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <TorrentSrcDirectory path="C:\Test Incoming">
+  </TorrentSrcDirectory>
+
+  <TVShowDirectory path="C:\Test Destination">
+  </TVShowDirectory>
+
+  <FileExtensions value="*.avi,*.mkv,*.mov,*.divx,*.wmv,*.mpeg,*.mpeg4">
+  </FileExtensions>
+  
+  <TVShowList>
+    <TVShow name="Californication" searchSequence=".*Californication.*" folder="Californication"></TVShow>
+  </TVShowList>
+</Config>
